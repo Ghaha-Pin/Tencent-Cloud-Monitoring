@@ -1,0 +1,5 @@
+cvm:
+  ip: []
+  region: 'ap-guangzhou'
+  Namespace: 'QCE/CVM'
+  MetricName: ['CPUUsage', 'CPULoadAvg', 'MemUsage']
