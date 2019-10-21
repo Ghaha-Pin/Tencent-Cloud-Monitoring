@@ -1,2 +1,5 @@
 # python_cvm_exporter
 python exporter关于腾讯云。利用腾讯云api的监控json数据实现一个exporter采集多个主机的监控信息
+
+
+如果client与etcd存在网络问题，且client与业务机器并不存在网络问题。则应该视该client为异常。这个需求需要解决
